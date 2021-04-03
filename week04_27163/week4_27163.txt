@@ -1,0 +1,13 @@
+Ketika melakukan running terhadap program maka akan muncul 3 button dengan 2 text yang dapat 
+di isi oleh pengguna. Text pertama digunakan untuk mengisi sesuatu yang nantinya akan dikirim ke 
+halaman berikutnya, dengan tampilan balasan yang jika balasan tersebut dikirim akan di 
+kembalikan ke halaman awal serta isi dari balasan tersebut akan muncul.
+Jika pengguna menuliskan link browser yang akan dituju didalam text atau ketika pengguna
+langsung menekan tombol browse maka pengguna akan dibawa ke menu pilihan mau melalukan 
+browsing dengan metode apa (chrome dll) lalu akan muncul tampilan website. 
+Dikarenakan dalamprogram sudah di set untuk masuk ke url www.umn.ac.id maka akan langsung
+terintegrasikan ke halaman web umn jika tidak ada isi di dalam text kedua.
+
+selanjutnya dibagian tombol fragment maka pengguna bisa mengisi suatu nama yang nantinya
+dapat digantikan tulisan tersebut. Tetapi jika data / text yang disediakan tidak di isi
+maka tombol tidak akan berfungsi dengan baik / tidak terjadi apa-apa.

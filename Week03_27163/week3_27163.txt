@@ -1,0 +1,12 @@
+ketika program / salah satu kata di klik maka akan muncul "pernah diklik" 
+begitu juga ketika program sudah pernah diklik (lebih dari satu kali diklik)
+maka tulisan "pernah diklik" itu akan muncul sesuai dengan jumlah berapa
+kali kata tersebut ditekan. Contoh kata ke 2 diklik / ditekan sebanyak 2x, maka : 
+"Kata 2 pernah diklik pernah diklik"
+
+Sedangkan ketika melakukan pertambahan kata maka kata yang ditambahkan akan berada
+dipaling bawah, dan memiliki kalimat tambahan seperti menambah kata ke 21 maka hasilnya
+"Kata 21 telah ditambahkan".
+Lalu apa yang terjadi saat kata yang ditambahkan di klik ?
+maka akan menjadi : 
+"Kata 21 telah ditambahkan pernah diklik"

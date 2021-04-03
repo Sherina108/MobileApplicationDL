@@ -1,0 +1,25 @@
+WEEK06A_27163 
+
+^dalam project A tersebut ketika program di running maka akan ditampilkan sebuah layar
+putih yang kosong, tetapi jika user / pengguna menekan di layar tersebut akan muncul
+buletan / lingkaran berwarna hijau, jika setelah user menekan layar perulang kali maka
+lingkaran tersebut akan muncul diposisi cursor menekan layar. dan jika dibiarkan maka
+lingkaran kecil yang sudah ditekan tersebut akan membesar dan berubah warna memenuhi layar. 
+setelah itu kan kembali putih.
+
+
+WEEK06B_27163
+
+^dalam project B tersebut ketika dirunning / dijalankan, maka program akan menampilkan 
+layar putih dimana bagian tengah layar akan tampil selayaknya sebuah 'video' dari 
+kumpulan / potongan-potongan gambar dari kuda seolah-olah sedang berlari.
+
+
+WEEK06C_27163
+
+^dalam project C tersebut ketika dirunning / dijalankan, maka program akan menampilkan 
+layar putih dengan 2 button di dalamnya. di dalam bagian atas adalah tombol Spring dan 
+bagian bawah adalah tombol fling. Ketika tombol spring ditekan maka tombol akan bergerak
+dari bawah ke atas dalam kurun waktu yang sangat cepat dan akan bergerak ketika ditekan.
+Tetapi jika menekan tombol fling maka tombol tersebut akan berputar terus menerus dan
+tidak akan berhenti sampai pengguna menekan kembali tombol tersebut. 

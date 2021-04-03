@@ -1,0 +1,12 @@
+Ketika emulator sudah berjalan maka kita bisa melakukan desain bebas dengan tools
+yang sudah disediakan dari program yaitu ketika menekan bentuk seperti rect, oval,
+ataupun line maka akan muncul sesuai dengan bentuk yang dipilih tersebut. 
+jika menekan rect / kotak maka akan muncul kotak. jika menekan oval maka akan 
+muncul bentuk oval. begitu juga jika menekan line maka akan mucul line.
+untuk menggunakan setiap bentuk yang ada, pengguna harus menarik dari satu titik
+ke titik lainnya untuk menjadi sebuah bentuk. 
+
+Tidak hanya bentuk yang bisa dibuat dalam program ini, tetapi juga bisa mengubah
+warna di dalamnya dengan warna utama adalah merah, hijau, biru. pengaturan warna 
+bisa diatur sesuai dengan kemauan pengguna dengan mengatur toogle path warna 
+tersebut.
