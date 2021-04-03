@@ -1,0 +1,13 @@
+https://github.com/Sherina108/MobileApplicationDL
+
+
+Kesimpulannya untuk weeko8A itu akan membaca file memory yang terdapat
+di dalam device yang digunakan / handphone yang digunakan untuk 
+menjalankan program. Selain itu juga bisa melakukan save / delete / 
+clear dari data tersebut. serta button exit untuk keluar dr program
+
+Kesimpulan untuk weeko8B itu akan menampilkan angka serta warna yang 
+dapat terus bertambah angkanya jika menekan button tambah. 
+Selain itu warna background akan berubah sesuai dengan button2 yang ada
+seperti jika menekan button wana merah, maka background akan menjadi 
+warna merah. begitu seterusnya. 
