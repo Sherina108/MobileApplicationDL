@@ -1,0 +1,10 @@
+https://github.com/Sherina108/MobileApplicationDL/tree/master/Week09_27163
+
+
+
+Kesimpulan :
+Untuk membuat sebuah database di dalam mobile application maka wajib menggunakan 
+interface DAO yang dapat dibuat di app>java>id.umn.ac.week09_27163
+Sedangkan untuk membuat sebuah button hapus, edit, menambah pada database yang ada
+bisa menggunakan repository dengan tipe data adalah LiveData dari arraylist mahasiswa.
+Serta adanya pembuatan viewModel yang menggunakan libraru dari lifecycle
