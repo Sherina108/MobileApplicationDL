@@ -1,0 +1,12 @@
+https://github.com/Sherina108/MobileApplicationDL/tree/master/Week11_27163
+
+
+program akan dijalankan, lalu program melakukan http
+get request dengan menggunakan retrofil model berdasarkan
+JSON placeholder yang diakses melalui sebuah website 
+dan disimpan di dalam RecyclerView.
+Kemudian program menampilkan sebuah tulisan lorem ipsum 
+yang dimana program berhasil dijalankan dan akan muncul 
+sebuah pesan pop yaitu "berhaisl melakukan fetching data".
+Apabila program gagal di akses maka akan muncul sebuah toast 
+error.
