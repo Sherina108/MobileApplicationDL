@@ -1,0 +1,15 @@
+https://github.com/Sherina108/MobileApplicationDL
+
+commit week12
+
+
+Hasil dari pengujian tutorial untuk week12A adalah mendapatkan data
+sensor yang terdapat pada device / emulator yang digunakan untuk 
+menjalankan program dari andorid studio ini. Untuk mendapatkan data
+tersebut maka perlu menggunakan fungsi getSystemService() dengan 
+parameter Contect.SENSOR_SERVICE.
+
+
+Hasil dari pengujian tutorial untuk week12B adalah menggunakan fungsi
+sensor light dan proximity untuk mendapatkan sensor bawaan light dan 
+proximity. 
